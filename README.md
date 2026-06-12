@@ -7,9 +7,8 @@ Software Architect/Engineer - building cloud applications for payments, parking 
 
 ### Side projects
 
-**[Briefiera](https://briefiera.com)** — Research agents for hyper-personalized newsletters.
-
-**[SeniorAI](https://seniorai.ai)** — AI-based code quality platform.
+- **[Briefiera](https://briefiera.com)** - Research agents for hyper-personalized newsletters.
+- **[SeniorAI](https://seniorai.ai)** - AI-based code quality platform.
 
 ----
 
