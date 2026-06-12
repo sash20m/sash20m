@@ -14,5 +14,5 @@ Software Architect/Engineer - building cloud applications for payments, parking 
 
 ![Profile views](https://komarev.com/ghpvc/?username=sash20m) 
 
-[Email](mailto:hello@seniorai.ai) · [LinkedIn](https://linkedin.com/in/alexmatei20)
+[Email](mailto:hello@seniorai.ai) · [LinkedIn](https://linkedin.com/in/alexmatei20) · [X](https://x.com/sash20m)
 
