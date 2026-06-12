@@ -2,7 +2,7 @@
 
 Software Architect/Engineer - building cloud applications for payments, parking infrastructure and AI.
 
-- 🔭 Currently building payments and parking systems for large scale parking deployments.
+- 🔭 Currently building payments and parking systems for large scale modular parking deployments.
 - 🧠 Putting my mind to work on AI and practical, beneficial uses of it.
 
 ### Side projects
