@@ -3,7 +3,7 @@
 Software Architect/Engineer. On a quest for knowledge, understanding and meaning.
 
 - 🔭 Currently building cloud payment services and parking systems for large scale modular parking deployments.
-- 🧠 Putting my mind to work on AI and practical, beneficial uses of it.
+- 🧠 Putting my mind to work on AI and beneficial, practical uses of it.
 
 ### Side projects
 
